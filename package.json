@@ -1,11 +1,11 @@
 {
-  "name": "@hospitalrun/frontend",
+  "name": "@NeuReg/frontend",
   "version": "2.0.0-alpha.7",
-  "description": "React frontend for HospitalRun",
+  "description": "React frontend for NeuReg",
   "private": false,
   "license": "MIT",
   "dependencies": {
-    "@hospitalrun/components": "~3.3.0",
+    "@NeuReg/components": "~3.3.0",
     "@reduxjs/toolkit": "~1.5.0",
     "@types/escape-string-regexp": "~2.0.1",
     "@types/json2csv": "~5.0.1",
@@ -51,7 +51,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/HospitalRun/hospitalrun-frontend.git"
+    "url": "https://github.com/NeuReg/NeuReg-frontend.git"
   },
   "author": "Jack Meyer",
   "contributors": [

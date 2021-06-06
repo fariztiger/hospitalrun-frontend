@@ -1,4 +1,4 @@
-import { Toaster } from '@hospitalrun/components'
+import { Toaster } from '@NeuReg/components'
 import React from 'react'
 import { useSelector } from 'react-redux'
 import { Route, Switch } from 'react-router-dom'
@@ -20,7 +20,7 @@ import { NetworkStatusMessage } from './shared/components/network-status'
 import Sidebar from './shared/components/Sidebar'
 import { RootState } from './shared/store'
 
-const HospitalRun = () => {
+const NeuReg = () => {
   const { title } = useTitle()
   const { sidebarCollapsed } = useSelector((state: RootState) => state.components)
 
@@ -66,4 +66,4 @@ const HospitalRun = () => {
   )
 }
 
-export default HospitalRun
+export default NeuReg

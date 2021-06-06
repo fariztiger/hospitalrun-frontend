@@ -1,1 +1,1 @@
-# Hospitalrun Frontend Documentation
+# NeuReg Frontend Documentation

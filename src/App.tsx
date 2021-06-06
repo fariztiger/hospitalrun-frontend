@@ -1,12 +1,12 @@
 /* eslint-disable no-console */
 
-import { Spinner } from '@hospitalrun/components'
+import { Spinner } from '@NeuReg/components'
 import React, { Suspense, useEffect, useState } from 'react'
 import { ReactQueryDevtools } from 'react-query-devtools'
 import { useDispatch } from 'react-redux'
 import { BrowserRouter, Route, Switch } from 'react-router-dom'
 
-import HospitalRun from './HospitalRun'
+import NeuReg from './NeuReg'
 import { TitleProvider } from './page-header/title/TitleContext'
 import { remoteDb } from './shared/config/pouchdb'
 import { getCurrentSession } from './user/user-slice'
@@ -52,7 +52,7 @@ const App: React.FC = () => {
         <Suspense fallback={<Spinner color="blue" loading size={[10, 25]} type="ScaleLoader" />}>
           <Switch>
             <TitleProvider>
-              <Route path="/" component={HospitalRun} />
+              <Route path="/" component={NeuReg} />
             </TitleProvider>
           </Switch>
         </Suspense>
