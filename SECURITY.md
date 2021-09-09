@@ -7,7 +7,7 @@ Your efforts to responsibly disclose your findings are appreciated and will be t
 
 ## Supported Versions
 
-This versions of NeuReg project are currently being supported with security updates.
+This versions of Hospitalrun project are currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -16,6 +16,6 @@ This versions of NeuReg project are currently being supported with security upda
 
 ## Reporting a Vulnerability
 
-Report security bugs by opening a new [Security Issue](https://github.com/NeuReg/NeuReg-frontend/issues/new?template=security.md). You can also report a vulnerability by emailing security@NeuReg.io.
+Report security bugs by opening a new [Security Issue](https://github.com/Hospitalrun/Hospitalrun-frontend/issues/new?template=security.md). You can also report a vulnerability by emailing security@Hospitalrun.io.
 
 Report security bugs in third-party modules to the maintainer or team maintaining the module.

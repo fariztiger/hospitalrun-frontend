@@ -1,4 +1,4 @@
-import { Label, DateTimePicker } from '@NeuReg/components'
+import { Label, DateTimePicker } from '@Hospitalrun/components'
 import React from 'react'
 
 interface Props {

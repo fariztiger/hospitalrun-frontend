@@ -1,4 +1,4 @@
-import { Label, Select } from '@NeuReg/components'
+import { Label, Select } from '@Hospitalrun/components'
 import React from 'react'
 
 interface Option {

@@ -1,4 +1,4 @@
-import { TextField, Label } from '@NeuReg/components'
+import { TextField, Label } from '@Hospitalrun/components'
 import React from 'react'
 
 interface Props {

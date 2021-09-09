@@ -1,9 +1,9 @@
-site_name: NeuReg
-site_url: https://NeuReg.io
-site_description: NeuReg project documentation
-site_author: NeuReg Core Team
+site_name: Hospitalrun
+site_url: https://Hospitalrun.io
+site_description: Hospitalrun project documentation
+site_author: Hospitalrun Core Team
 
-repo_url: https://github.com/NeuReg/NeuReg-frontend/
+repo_url: https://github.com/Hospitalrun/Hospitalrun-frontend/
 
 theme:
   name: readthedocs

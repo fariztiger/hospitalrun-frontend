@@ -20,10 +20,10 @@ export interface UserState {
 
 const initialState: UserState = {
   user: {
-    givenName: 'NeuReg',
+    givenName: 'Hospitalrun',
     familyName: 'Test',
-    fullName: 'NeuReg Test',
-    id: 'test-NeuReg',
+    fullName: 'Hospitalrun Test',
+    id: 'test-Hospitalrun',
   },
   permissions: [
     Permissions.ReadPatients,
