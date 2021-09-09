@@ -9,7 +9,7 @@ const Dashboard: React.FC = () => {
   useEffect(() => {
     updateTitle(t('dashboard.label'))
   })
-  return <h3>Jabatan Neurologi Pulau Pinang</h3>
+  return <h3>OPD Covid Center </h3>
 }
 
 export default Dashboard
