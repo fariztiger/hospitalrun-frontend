@@ -70,7 +70,97 @@ const Navbar = () => {
         {
           type: 'image',
           src:
-            'data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53%0D%0AMy5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5r%0D%0AIiB2aWV3Qm94PSIwIDAgMjk5IDI5OSI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOnVybCgjbGlu%0D%0AZWFyLWdyYWRpZW50KTt9PC9zdHlsZT48bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhci1ncmFkaWVu%0D%0AdCIgeDE9IjcyLjU4IiB5MT0iMTYuMDQiIHgyPSIyMjcuMzEiIHkyPSIyODQuMDIiIGdyYWRpZW50%0D%0AVW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBvZmZzZXQ9IjAuMDEiIHN0b3AtY29sb3I9IiM2%0D%0AMGQxYmIiLz48c3RvcCBvZmZzZXQ9IjAuNSIgc3RvcC1jb2xvcj0iIzFhYmM5YyIvPjxzdG9wIG9m%0D%0AZnNldD0iMSIgc3RvcC1jb2xvcj0iIzAwOWI5ZSIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjx0%0D%0AaXRsZT5jcm9zcy1pY29uPC90aXRsZT48cGF0aCBpZD0iY3Jvc3MiIGNsYXNzPSJjbHMtMSIgZD0i%0D%0ATTI5Mi45NCw5Ny40NkgyMDUuM1Y3LjA2QTYuNTYsNi41NiwwLDAsMCwxOTguNzQuNUgxMDEuMjZB%0D%0ANi41Niw2LjU2LDAsMCwwLDk0LjcsNy4wNnY5MC40SDcuMDZBNi41OCw2LjU4LDAsMCwwLC41LDEw%0D%0ANFYxOTYuM2E2LjIzLDYuMjMsMCwwLDAsNi4yMyw2LjI0aDg4djkwLjRhNi41Niw2LjU2LDAsMCww%0D%0ALDYuNTYsNi41Nmg5Ny40OGE2LjU2LDYuNTYsMCwwLDAsNi41Ni02LjU2di05MC40aDg4YTYuMjMs%0D%0ANi4yMywwLDAsMCw2LjIzLTYuMjRWMTA0QTYuNTgsNi41OCwwLDAsMCwyOTIuOTQsOTcuNDZaIiB0%0D%0AcmFuc2Zvcm09InRyYW5zbGF0ZSgtMC41IC0wLjUpIi8+PC9zdmc+',
+            '<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+            < svg
+   id="Layer_1"
+   data- name="Layer 1"
+   viewBox = "0 0 299 299"
+   version = "1.1"
+   sodipodi: docname = "download.svg"
+   inkscape: version = "1.1 (c68e22c387, 2021-05-23)"
+   xmlns: inkscape = "http://www.inkscape.org/namespaces/inkscape"
+   xmlns: sodipodi = "http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns = "http://www.w3.org/2000/svg"
+   xmlns: svg = "http://www.w3.org/2000/svg"
+   xmlns: rdf = "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns: cc = "http://creativecommons.org/ns#"
+   xmlns: dc = "http://purl.org/dc/elements/1.1/" >
+  <sodipodi:namedview
+     id="namedview17"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.7826087"
+     inkscape:cx="149.32031"
+     inkscape:cy="149.67969"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs11">
+    <rect
+       x="11.140625"
+       y="102.78125"
+       width="271.32812"
+       height="83.375"
+       id="rect26164" />
+    <style
+       id="style2">.cls-1{fill:url(#linear-gradient);}</style>
+    <linearGradient
+       id="linear-gradient"
+       x1="72.58"
+       y1="16.04"
+       x2="227.31"
+       y2="284.02"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.01"
+         stop-color="#60d1bb"
+         id="stop4" />
+      <stop
+         offset="0.5"
+         stop-color="#1abc9c"
+         id="stop6" />
+      <stop
+         offset="1"
+         stop-color="#009b9e"
+         id="stop8" />
+    </linearGradient>
+  </defs>
+  <title
+     id="title13">cross-icon</title>
+  <path
+     id="cross"
+     class="cls-1"
+     d="M292.94,97.46H205.3V7.06A6.56,6.56,0,0,0,198.74.5H101.26A6.56,6.56,0,0,0,94.7,7.06v90.4H7.06A6.58,6.58,0,0,0,.5,104V196.3a6.23,6.23,0,0,0,6.23,6.24h88v90.4a6.56,6.56,0,0,0,6.56,6.56h97.48a6.56,6.56,0,0,0,6.56-6.56v-90.4h88a6.23,6.23,0,0,0,6.23-6.24V104A6.58,6.58,0,0,0,292.94,97.46Z"
+     transform="translate(-0.5 -0.5)" />
+  <text
+     xml:space="preserve"
+     id="text26162"
+     style="font-style:normal;font-weight:normal;font-size:64px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect26164);fill:#000000;fill-opacity:1;stroke:none"
+     transform="matrix(1.449563,0,0,1.8235677,38.053192,-102.79323)"><tspan
+       x="11.140625"
+       y="159.40625"
+       id="tspan48880"><tspan
+         style="font-family:Adca;-inkscape-font-specification:Adca"
+         id="tspan48878">OPD</tspan></tspan></text>
+  <metadata
+     id="metadata48862">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>cross-icon</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg >',
           onClick: () => {
             navigateTo('/')
           },
