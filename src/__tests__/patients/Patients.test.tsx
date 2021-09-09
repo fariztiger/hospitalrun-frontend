@@ -34,7 +34,7 @@ const setup = (url: string, permissions: Permissions[] = []) => {
       <Provider store={store}>
         <Router history={history}>
           <TitleProvider>
-            <HospitalRun />
+            <OPDCovidCenter />
           </TitleProvider>
         </Router>
       </Provider>,

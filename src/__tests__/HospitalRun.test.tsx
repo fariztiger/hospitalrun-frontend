@@ -34,7 +34,7 @@ describe('HospitalRun', () => {
       <Provider store={store}>
         <MemoryRouter initialEntries={[route]}>
           <TitleProvider>
-            <HospitalRun />
+            <OPDCovidCenter />
           </TitleProvider>
         </MemoryRouter>
       </Provider>,
